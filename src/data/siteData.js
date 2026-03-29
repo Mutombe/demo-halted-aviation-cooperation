@@ -576,13 +576,7 @@ const siteData = {
     ],
     heroSubtitle:
       "Hear from the organizations across Zimbabwe and the region who trust Halted Aviation for their aerial intelligence needs.",
-    ratingBreakdown: [
-      { stars: 5, count: 14 },
-      { stars: 4, count: 4 },
-      { stars: 3, count: 1 },
-      { stars: 2, count: 0 },
-      { stars: 1, count: 0 },
-    ],
+    ratingBreakdown: { 5: 14, 4: 4, 3: 1, 2: 0, 1: 0 },
     items: [
       {
         name: "Farai Chikwanha",
